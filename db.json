@@ -1,3 +1,19 @@
 {
-"hotel" :
-[{"id":"com.accuweather.Treeflex","nama":"Dot","alamat":"20 Sherman Street","nomor_telp":"8932220015","kordinat":"38 Dunning Place","gambar_url":"https://m.ayosemarang.com/images-semarang/post/articles/2020/04/23/55789/20200329_161547.jpg"}]}
+  "hotel": [
+        {
+            "id": 1,
+            "nama": "Hotel Harper Purwakarta",
+            "alamat": "Jl. Raya Bungursari No.122, Bungursari, Kabupaten Purwakarta, Jawa Barat 41181",
+            "nomor_telp": "02648642888",
+            "kordinat": "-6.478927, 107.481261",
+            "gambar_url": "https://m.ayosemarang.com/images-semarang/post/articles/2020/04/23/55789/20200329_161547.jpg"
+        },
+        {
+            "id": 2,
+            "nama": "Prime Plaza Hotel Purwakarta",
+            "alamat": "Kawasan Industri Kota Bukit Indah Blok L, Cinangka, Bungursari, Cinangka, Bungursari, Kabupaten Purwakarta, Jawa Barat 41181",
+            "nomor_telp": "0264351888",
+            "kordinat": "-6.439420, 107.463123",
+            "gambar_url": "https://dev.farizdotid.com/api/halopwk/gambar/hotel/2.jpg"
+        }]
+}
